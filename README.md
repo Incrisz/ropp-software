@@ -1,4 +1,4 @@
-# Installations cmds
+# Installations cmds for Radio Occultation Processing Package
 
 
 # Clone the repository 
