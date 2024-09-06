@@ -1,4 +1,4 @@
-# Installations cmds for Radio Occultation Processing Package
+# Installations cmds for Radio Occultation Processing Package made for Titus
 
 
 # Clone the repository 
