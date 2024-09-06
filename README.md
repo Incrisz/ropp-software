@@ -36,5 +36,7 @@ https://github.com/Unidata/netcdf-c/archive/refs/tags/v4.9.2.tar.gz
 
 # ropp-software11.3 , eccodes-2.22.0 , hdf5-1.10.6 , netcdf-fortran-4.5.2 , sofa_f-20190722 , zlib-1.2.11 ,netcdf-c-4.9.2 
 
+git clone https://github.com/Incrisz/ropp-software.git
+cd ropp-software
 sudo chmod +x install-ropp.sh
 sudo ./install-ropp.sh
