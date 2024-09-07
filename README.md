@@ -12,3 +12,6 @@ sudo chmod +x install-ropp.sh
 
 # Run the install script
 sudo ./install-ropp.sh
+
+
+# PLease Note: this might take upto an hour to complete its installation or less
