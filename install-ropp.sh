@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt update
-sudo apt upgrade -y
+# sudo apt upgrade -y
 
 sudo apt install gfortran -y
 sudo apt-get install build-essential -y
